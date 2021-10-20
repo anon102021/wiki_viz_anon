@@ -1,0 +1,7 @@
+Section,Average % of target articles devoted to section,Average % of comparison articles devoted to section,p-value of difference,
+personal life,8.54%,2.70%,1.97E-05,TRUE
+career,28.83%,18.96%,0.0082,TRUE
+see also,0.01%,0.08%,0.1085,FALSE
+early life,4.26%,2.88%,0.1085,FALSE
+filmography,0.02%,0.53%,0.2462,FALSE
+discography,0.30%,0.09%,0.2974,FALSE

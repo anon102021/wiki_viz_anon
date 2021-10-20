@@ -1,0 +1,84 @@
+Language Code,Language,% of Target articles available,% of Comparison articles available,p-value of difference,p < 0.05
+zh,Chinese,7.43%,11.27%,1.42E-20,TRUE
+ht,"Haitian, Haitian Creole",2.21%,0.59%,8.83E-20,TRUE
+yo,Yoruba,2.11%,0.70%,3.61E-15,TRUE
+sw,Swahili,1.94%,0.80%,9.31E-10,TRUE
+af,Afrikaans,9.16%,10.70%,5.50E-09,TRUE
+he,Hebrew,7.66%,9.83%,4.10E-07,TRUE
+sv,Swedish,15.11%,17.79%,4.96E-07,TRUE
+ast,ast,4.58%,6.13%,1.66E-06,TRUE
+sh,sh,2.27%,3.39%,1.08E-05,TRUE
+ja,Japanese,18.13%,20.44%,1.70E-05,TRUE
+simple,simple,8.64%,10.55%,2.25E-05,TRUE
+ms,Malay,1.59%,2.49%,7.53E-05,TRUE
+cy,Welsh,1.48%,2.32%,0.00012,TRUE
+uk,Ukrainian,7.65%,9.20%,0.00018,TRUE
+ru,Russian,18.28%,20.29%,0.00030,TRUE
+fa,Persian,17.18%,19.05%,0.00030,TRUE
+ur,Urdu,0.81%,1.43%,0.00041,TRUE
+vo,Volapük,0.39%,0.87%,0.00044,TRUE
+id,Indonesian,5.45%,6.71%,0.00062,TRUE
+sr,Serbian,2.84%,3.75%,0.00116,TRUE
+la,Latin,1.04%,1.64%,0.00126,TRUE
+bg,Bulgarian,3.40%,4.37%,0.00152,TRUE
+azb,azb,12.59%,14.06%,0.00152,TRUE
+hy,Armenian,3.76%,4.74%,0.00191,TRUE
+mg,Malagasy,1.24%,1.80%,0.00308,TRUE
+de,German,29.87%,31.75%,0.00410,TRUE
+cs,Czech,8.00%,9.21%,0.00421,TRUE
+eu,Basque,1.89%,2.56%,0.00421,TRUE
+fi,Finnish,13.24%,14.71%,0.00483,TRUE
+da,Danish,6.81%,7.92%,0.00535,TRUE
+az,Azerbaijani,1.13%,1.67%,0.00539,TRUE
+no,Norwegian,9.20%,10.38%,0.00584,TRUE
+ka,Georgian,1.50%,2.07%,0.00607,TRUE
+hu,Hungarian,4.95%,5.90%,0.00625,TRUE
+ga,Irish,1.63%,2.17%,0.00860,TRUE
+ne,Nepali,0.55%,0.92%,0.00860,TRUE
+bn,Bengali,1.34%,1.84%,0.00879,TRUE
+pl,Polish,17.62%,19.06%,0.00917,TRUE
+el,"Greek, Modern (1453–)",1.98%,2.51%,0.021,TRUE
+an,Aragonese,0.69%,1.02%,0.027,TRUE
+sl,Slovenian,1.52%,1.95%,0.035,TRUE
+xmf,xmf,0.75%,1.06%,0.040,TRUE
+mn,Mongolian,0.68%,0.98%,0.054,TRUE
+eo,Esperanto,1.65%,2.09%,0.054,TRUE
+ca,"Catalan, Valencian",5.33%,6.04%,0.057,TRUE
+zh-min-nan,zh-min-nan,0.88%,1.20%,0.058,TRUE
+et,Estonian,2.53%,3.03%,0.062,TRUE
+pa,"Punjabi, Panjabi",1.01%,0.75%,0.089,TRUE
+nn,Norwegian Nynorsk,1.70%,2.05%,0.091,TRUE
+ar,Arabic,39.02%,40.34%,0.093,TRUE
+sq,Albanian,1.43%,1.78%,0.093,TRUE
+io,Ido,1.12%,0.83%,0.096,TRUE
+kk,Kazakh,1.01%,1.31%,0.107,FALSE
+tl,Tagalog,0.98%,1.25%,0.122,FALSE
+es,"Spanish, Castilian",22.99%,23.93%,0.135,FALSE
+it,Italian,26.15%,27.09%,0.135,FALSE
+fr,French,34.38%,35.36%,0.154,FALSE
+lv,Latvian,1.86%,2.18%,0.154,FALSE
+ko,Korean,13.33%,14.04%,0.164,FALSE
+th,Thai,2.58%,2.92%,0.191,FALSE
+jv,Javanese,0.57%,0.76%,0.192,FALSE
+sk,Slovak,2.31%,2.58%,0.294,FALSE
+is,Icelandic,1.23%,1.43%,0.318,FALSE
+mk,Macedonian,0.92%,1.09%,0.318,FALSE
+be,Belarusian,0.65%,0.80%,0.321,FALSE
+nl,"Dutch, Flemish",16.31%,16.86%,0.333,FALSE
+ml,Malayalam,1.32%,1.14%,0.349,FALSE
+war,war,0.68%,0.82%,0.359,FALSE
+arz,arz,10.90%,11.27%,0.479,FALSE
+vi,Vietnamese,3.75%,3.97%,0.504,FALSE
+ro,"Romanian, Moldavian, Moldovan",4.19%,4.40%,0.556,FALSE
+fy,Western Frisian,0.94%,0.83%,0.566,FALSE
+lt,Lithuanian,1.48%,1.36%,0.603,FALSE
+tr,Turkish,8.12%,8.34%,0.626,FALSE
+oc,Occitan,0.98%,0.88%,0.626,FALSE
+pt,Portuguese,20.56%,20.86%,0.639,FALSE
+sco,sco,1.57%,1.67%,0.676,FALSE
+bs,Bosnian,0.63%,0.69%,0.738,FALSE
+hi,Hindi,0.93%,0.87%,0.748,FALSE
+uz,Uzbek,0.59%,0.64%,0.785,FALSE
+hr,Croatian,2.96%,2.89%,0.823,FALSE
+gl,Galician,2.57%,2.51%,0.838,FALSE
+ta,Tamil,0.90%,0.92%,1,FALSE

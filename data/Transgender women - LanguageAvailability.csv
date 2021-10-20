@@ -1,0 +1,25 @@
+Language Code,Language,% of Target articles available,% of Comparison articles available,p-value of difference,p < 0.05
+eu,Basque,46.27%,2.24%,2.68E-12,TRUE
+fa,Persian,46.27%,12.69%,6.73E-08,TRUE
+pa,"Punjabi, Panjabi",20.15%,0.00%,4.50E-06,TRUE
+fr,French,52.24%,29.85%,0.001087184422,TRUE
+ru,Russian,33.58%,15.67%,0.003340617117,TRUE
+he,Hebrew,18.66%,6.72%,0.01834556832,TRUE
+ar,Arabic,20.90%,35.07%,0.05869110756,TRUE
+ca,"Catalan, Valencian",17.91%,8.21%,0.07757274139,TRUE
+es,"Spanish, Castilian",36.57%,24.63%,0.09038627607,TRUE
+pt,Portuguese,26.87%,17.16%,0.1164473719,FALSE
+zh,Chinese,15.67%,8.21%,0.1692134547,FALSE
+ko,Korean,14.18%,9.70%,0.5728440456,FALSE
+arz,arz,6.72%,9.70%,0.8852309948,FALSE
+no,Norwegian,9.70%,9.70%,0.9237223455,FALSE
+de,German,34.33%,34.33%,0.9237223455,FALSE
+nl,"Dutch, Flemish",17.16%,15.67%,0.9237223455,FALSE
+pl,Polish,16.42%,14.18%,0.9237223455,FALSE
+it,Italian,28.36%,26.87%,0.9237223455,FALSE
+fi,Finnish,11.94%,14.18%,0.9237223455,FALSE
+sv,Swedish,17.16%,14.18%,0.9237223455,FALSE
+azb,azb,11.19%,9.70%,0.9237223455,FALSE
+cs,Czech,8.96%,7.46%,0.9237223455,FALSE
+tr,Turkish,6.72%,8.21%,0.9237223455,FALSE
+ja,Japanese,13.43%,12.69%,1,FALSE

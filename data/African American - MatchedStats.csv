@@ -1,0 +1,7 @@
+,Target,Comparison,p-value of difference
+Number of articles analyzed,8404,8404,-
+Article Lengths,942.91,959.23,0.289
+# of Languages,6.19,6.77,3.72E-06
+# of Categories,11.32,12.28,3.92E-45
+Edit History,243.35,245.78,0.780
+Article Age,128.47,136.23,2.32E-27

@@ -1,0 +1,29 @@
+Section,Average % of target articles devoted to section,Average % of comparison articles devoted to section,p-value of difference,
+early life,3.73%,2.87%,0.00008,TRUE
+early life and education,2.27%,1.69%,0.00166,TRUE
+early life and career,0.68%,0.34%,0.03388,TRUE
+filmography,0.08%,0.22%,0.05541,TRUE
+life and career,1.84%,2.59%,0.05541,TRUE
+honors and awards,0.18%,0.08%,0.05541,TRUE
+life,0.59%,0.97%,0.06556,TRUE
+bibliography,0.06%,0.14%,0.11552,FALSE
+personal,0.22%,0.15%,0.35922,FALSE
+work,0.64%,0.46%,0.41255,FALSE
+personal life,2.97%,2.76%,0.41773,FALSE
+background,0.64%,0.78%,0.49701,FALSE
+biography,6.94%,6.41%,0.49701,FALSE
+awards and honors,0.35%,0.42%,0.49701,FALSE
+awards and nominations,0.02%,0.05%,0.49701,FALSE
+awards,0.46%,0.39%,0.50813,FALSE
+see also,0.03%,0.03%,0.59771,FALSE
+books,0.19%,0.14%,0.59771,FALSE
+publications,0.15%,0.12%,0.63282,FALSE
+external links,0.21%,0.18%,0.63282,FALSE
+professional career,1.06%,1.18%,0.63282,FALSE
+research,0.59%,0.67%,0.63822,FALSE
+political career,0.82%,0.73%,0.63822,FALSE
+career,19.79%,19.47%,0.68675,FALSE
+discography,0.12%,0.14%,0.72986,FALSE
+education,0.79%,0.76%,0.80914,FALSE
+works,0.25%,0.27%,0.83465,FALSE
+notes,0.03%,0.03%,0.96474,FALSE

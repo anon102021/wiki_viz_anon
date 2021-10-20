@@ -1,0 +1,83 @@
+Section,Average % of target articles devoted to section,Average % of comparison articles devoted to section,p-value of difference,
+career,17.47%,15.55%,4.20E-41,TRUE
+early life and education,1.43%,1.09%,1.08E-31,TRUE
+recognition,0.20%,0.09%,5.66E-28,TRUE
+personal life,2.47%,2.12%,1.35E-25,TRUE
+professional career,0.49%,0.78%,6.62E-24,TRUE
+political career,1.58%,2.00%,2.05E-19,TRUE
+education,0.68%,0.53%,9.62E-15,TRUE
+controversies,0.10%,0.20%,1.05E-14,TRUE
+early life,2.46%,2.17%,2.63E-13,TRUE
+education and career,0.64%,0.44%,8.71E-13,TRUE
+coaching career,0.15%,0.24%,7.00E-10,TRUE
+controversy,0.10%,0.17%,1.72E-08,TRUE
+awards and recognition,0.09%,0.05%,3.31E-07,TRUE
+career statistics,0.01%,0.01%,3.94E-07,TRUE
+college career,0.09%,0.14%,1.76E-06,TRUE
+life,1.24%,1.02%,4.39E-06,TRUE
+see also,0.02%,0.03%,4.72E-05,TRUE
+activism,0.18%,0.12%,4.72E-05,TRUE
+bibliography,0.12%,0.17%,5.20E-05,TRUE
+musical career,0.26%,0.35%,0.0001898663787,TRUE
+federal judicial service,0.11%,0.14%,0.0001898663787,TRUE
+early years,0.16%,0.20%,0.001697963359,TRUE
+international career,0.27%,0.23%,0.004790894421,TRUE
+discography,0.16%,0.19%,0.005263283561,TRUE
+electoral record,0.00%,0.00%,0.005411862222,TRUE
+awards,0.43%,0.38%,0.005579543333,TRUE
+background and education,0.11%,0.09%,0.00946388934,TRUE
+playing career,0.34%,0.28%,0.01470420588,TRUE
+life and work,0.31%,0.38%,0.02259703792,TRUE
+research,0.47%,0.41%,0.02486211232,TRUE
+honours,0.12%,0.10%,0.03390129129,TRUE
+footnotes,0.00%,0.01%,0.03614445144,TRUE
+political positions,0.08%,0.11%,0.03888398307,TRUE
+early career,0.21%,0.25%,0.03911138488,TRUE
+published works,0.03%,0.05%,0.05569991806,TRUE
+politics,0.25%,0.29%,0.05576119048,TRUE
+personal,0.19%,0.17%,0.1271570677,FALSE
+work,0.62%,0.56%,0.1271570677,FALSE
+championships and accomplishments,0.00%,0.00%,0.1383455891,FALSE
+achievements,0.18%,0.16%,0.1741991961,FALSE
+collections,0.02%,0.02%,0.2057905883,FALSE
+academic career,0.20%,0.23%,0.2171312575,FALSE
+selected bibliography,0.01%,0.02%,0.2236646247,FALSE
+selected publications,0.03%,0.02%,0.2290541609,FALSE
+awards and nominations,0.04%,0.04%,0.276624502,FALSE
+early life and career,0.49%,0.46%,0.2845616971,FALSE
+history,0.23%,0.26%,0.2845616971,FALSE
+awards and honors,0.14%,0.16%,0.2849178536,FALSE
+biography,8.61%,8.76%,0.2862723043,FALSE
+exhibitions,0.10%,0.09%,0.2862723043,FALSE
+honours and awards,0.04%,0.04%,0.2862723043,FALSE
+life and career,1.80%,1.72%,0.3106152987,FALSE
+tours,0.00%,0.01%,0.3347263387,FALSE
+competitive highlights,0.00%,0.01%,0.3347263387,FALSE
+external links,0.30%,0.32%,0.3401204941,FALSE
+filmography,0.12%,0.11%,0.3401204941,FALSE
+notes,0.04%,0.04%,0.351692644,FALSE
+writing,0.18%,0.16%,0.3644528133,FALSE
+honors and awards,0.05%,0.06%,0.3817952409,FALSE
+acting career,0.13%,0.12%,0.394699158,FALSE
+electoral history,0.02%,0.02%,0.3958284411,FALSE
+publications,0.15%,0.17%,0.4068533689,FALSE
+philanthropy,0.08%,0.09%,0.4178079101,FALSE
+selected works,0.04%,0.04%,0.4499563305,FALSE
+personal bests,0.00%,0.01%,0.4499563305,FALSE
+music,0.10%,0.11%,0.4627394509,FALSE
+books,0.12%,0.13%,0.4799753966,FALSE
+accolades,0.02%,0.02%,0.5390513859,FALSE
+recordings,0.03%,0.03%,0.5390513859,FALSE
+international competitions,0.00%,0.00%,0.5718874108,FALSE
+awards and honours,0.08%,0.08%,0.5865501708,FALSE
+works,0.36%,0.37%,0.6712563185,FALSE
+television,0.06%,0.07%,0.6927758086,FALSE
+background,0.63%,0.61%,0.6979999087,FALSE
+sources,0.03%,0.03%,0.7902133037,FALSE
+club career,0.25%,0.25%,0.825181069,FALSE
+further reading,0.00%,0.00%,0.9065198197,FALSE
+programs,0.00%,0.00%,0.9093870951,FALSE
+honors,0.05%,0.05%,0.9200139962,FALSE
+family,0.09%,0.09%,0.9204720675,FALSE
+other activities,0.05%,0.05%,0.9360320164,FALSE
+music career,0.54%,0.54%,0.9428056399,FALSE

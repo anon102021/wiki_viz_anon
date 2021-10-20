@@ -1,0 +1,6 @@
+Language Code,Language,% of Target articles available,% of Comparison articles available,p-value of difference,p < 0.05
+fr,French,0.4150943396,0.3018867925,0.477370038,FALSE
+de,German,0.2830188679,0.3773584906,0.5053106184,FALSE
+es,"Spanish, Castilian",0.1886792453,0.2830188679,0.477370038,FALSE
+ru,Russian,0.2264150943,0.2264150943,0.7728299927,FALSE
+ar,Arabic,0.01886792453,0.3773584906,0.000181789776,TRUE

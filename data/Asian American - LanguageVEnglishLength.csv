@@ -1,0 +1,11 @@
+Language Code,Language,Number of Pairs,Treatement Article Length,Control Article Length,Length p-value,Treatment Number of Sections,Control Number of sections,Section p-value
+de,German,562,1030.80,1157.44,0.027,8.01,8.12,0.57
+fr,French,594,1100.66,1225.97,0.033,8.27,8.25,0.92
+it,Italian,432,1137.98,1267.07,0.056,8.45,8.37,0.69
+es,"Spanish, Castilian",366,1214.76,1393.17,0.028,8.46,8.42,0.86
+ja,Japanese,311,1138.26,1490.36,0.000030,8.34,8.30,0.86
+zh,Chinese,194,1223.26,1603.96,0.002,8.70,8.69,0.98
+ar,Arabic,592,960.08,1030.97,0.175,7.78,7.61,0.34
+pt,Portuguese,327,1202.82,1403.35,0.020,8.63,8.61,0.94
+ru,Russian,334,1278.96,1346.26,0.443,8.83,8.21,0.02
+sw,Swahili,6,1342.17,591.33,0.023,9.33,6.33,0.14

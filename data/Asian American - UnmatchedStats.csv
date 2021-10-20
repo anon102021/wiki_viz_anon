@@ -1,0 +1,6 @@
+,Target,Comparison,p-value of difference
+Number of articles analyzed,,,
+,Treatment Average,Control Average,p-value
+Article Lengths,737.48,711.42,0.0436
+Category Counts,17.44,16.00,2.75E-26
+Lang Counts,5.03,4.19,1.67E-13

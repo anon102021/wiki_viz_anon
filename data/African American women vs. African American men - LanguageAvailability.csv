@@ -1,0 +1,61 @@
+Language Code,Language,% of Target articles available,% of Comparison articles available,p-value of difference,p < 0.05
+ast,ast,6.92%,1.35%,8.0E-17,TRUE
+af,Afrikaans,9.27%,3.12%,8.3E-17,TRUE
+ar,Arabic,32.90%,41.91%,1.2E-08,TRUE
+ja,Japanese,11.76%,16.55%,1.5E-05,TRUE
+ca,"Catalan, Valencian",8.38%,4.74%,2.1E-05,TRUE
+sl,Slovenian,2.55%,1.04%,6.3E-04,TRUE
+da,Danish,5.57%,8.49%,1.4E-03,TRUE
+ms,Malay,2.24%,0.94%,3.5E-03,TRUE
+cy,Welsh,2.24%,0.94%,6.5E-03,TRUE
+sv,Swedish,16.61%,19.94%,1.2E-02,TRUE
+no,Norwegian,9.89%,12.44%,1.6E-02,TRUE
+it,Italian,24.57%,27.80%,3.7E-02,TRUE
+fr,French,31.81%,35.19%,5.1E-02,TRUE
+ht,"Haitian, Haitian Creole",2.03%,1.04%,5.8E-02,TRUE
+hu,Hungarian,5.99%,4.42%,8.4E-02,TRUE
+zh,Chinese,7.24%,9.01%,1.1E-01,FALSE
+sk,Slovak,2.60%,3.75%,1.2E-01,FALSE
+cs,Czech,8.43%,10.15%,1.2E-01,FALSE
+bg,Bulgarian,4.16%,3.02%,1.2E-01,FALSE
+sr,Serbian,3.96%,2.81%,1.2E-01,FALSE
+et,Estonian,2.55%,3.70%,1.2E-01,FALSE
+pl,Polish,15.67%,17.70%,1.3E-01,FALSE
+arz,arz,14.37%,16.45%,1.3E-01,FALSE
+de,German,30.56%,33.00%,1.5E-01,FALSE
+simple,simple,11.30%,9.63%,1.6E-01,FALSE
+pt,Portuguese,20.98%,23.11%,1.6E-01,FALSE
+eu,Basque,2.55%,1.72%,1.7E-01,FALSE
+nl,"Dutch, Flemish",15.72%,17.49%,2.2E-01,FALSE
+id,Indonesian,7.13%,5.99%,2.4E-01,FALSE
+vi,Vietnamese,5.31%,4.27%,2.4E-01,FALSE
+el,"Greek, Modern (1453–)",2.19%,1.56%,3.1E-01,FALSE
+tl,Tagalog,1.72%,1.20%,3.3E-01,FALSE
+tr,Turkish,8.17%,9.32%,3.3E-01,FALSE
+lv,Latvian,2.13%,1.56%,3.4E-01,FALSE
+fi,Finnish,13.85%,15.04%,4.0E-01,FALSE
+es,"Spanish, Castilian",24.00%,22.64%,4.0E-01,FALSE
+fa,Persian,18.90%,17.60%,4.0E-01,FALSE
+uk,Ukrainian,8.33%,7.44%,4.0E-01,FALSE
+sh,sh,2.50%,1.93%,4.0E-01,FALSE
+ml,Malayalam,2.71%,2.13%,4.0E-01,FALSE
+sw,Swahili,2.03%,2.55%,4.0E-01,FALSE
+ru,Russian,17.49%,16.50%,4.8E-01,FALSE
+he,Hebrew,9.68%,8.85%,4.8E-01,FALSE
+ro,"Romanian, Moldavian, Moldovan",3.96%,4.58%,4.8E-01,FALSE
+sco,sco,1.98%,1.56%,4.8E-01,FALSE
+nn,Norwegian Nynorsk,2.50%,2.92%,5.7E-01,FALSE
+ka,Georgian,2.03%,1.67%,5.7E-01,FALSE
+bn,Bengali,1.67%,1.41%,7.1E-01,FALSE
+th,Thai,2.71%,3.02%,7.1E-01,FALSE
+pa,"Punjabi, Panjabi",1.41%,1.67%,7.1E-01,FALSE
+azb,azb,13.53%,14.00%,7.7E-01,FALSE
+ko,Korean,12.29%,12.75%,7.7E-01,FALSE
+io,Ido,1.77%,1.56%,7.9E-01,FALSE
+hy,Armenian,4.27%,4.53%,8.2E-01,FALSE
+yo,Yoruba,3.28%,3.49%,8.3E-01,FALSE
+az,Azerbaijani,1.41%,1.56%,8.3E-01,FALSE
+eo,Esperanto,1.93%,2.08%,8.5E-01,FALSE
+gl,Galician,3.28%,3.28%,9.5E-01,FALSE
+hr,Croatian,2.71%,2.76%,1.0E+00,FALSE
+lt,Lithuanian,1.77%,1.72%,1.0E+00,FALSE

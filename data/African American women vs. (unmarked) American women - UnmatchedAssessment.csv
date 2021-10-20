@@ -1,0 +1,20 @@
+,Value
+Average SMD,0.002
+Number of categories with > 0.25 SMD,5
+Number of categories with > 0.1 SMD,60
+Number of categories with > 0.01 SMD,15710
+Number of categories with > 0.001 SMD,9943
+Number of categories with > 0.0001 SMD,202
+Number of categories with < 0.0001 SMD,183693
+Cohen's d for the differences in the number of categories between treatment and control,0.1525
+Average number of target categories,17.5500
+Average number of treatment categories,16.1600
+Cohen's d for the differences in article length between treatment and control,0.2518
+Average length of comparison article,857.25
+Average length of treatment article,649.27
+log-odds_mean,-0.0490
+log-ods_stdev,0.6815
+Mean polarity of log-odds scores,11.1100
+Std of polarity of log-odds scores,5.0000
+KL divervence of article topics (direction 1),0.0859
+KL divervence of article topics (direction 2),0.0815
